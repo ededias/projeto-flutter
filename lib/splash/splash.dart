@@ -1,0 +1,1 @@
+export 'package:curso_adm/splash/view/splash_page.dart';

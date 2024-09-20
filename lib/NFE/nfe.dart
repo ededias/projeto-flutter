@@ -1,0 +1,1 @@
+export 'package:curso_adm/NFE/view/nfe_page.dart';
